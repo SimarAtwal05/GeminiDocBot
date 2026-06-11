@@ -69,19 +69,18 @@ Generated Answer
 
 ### AI Workflow
 
-(Add screenshot)
+![App Screenshot](Screenshots/Workflow.png)
 
-### Agent Configuration
-
-(Add screenshot)
 
 ### Example Conversation
 
-(Add screenshot)
+![App Screenshot](Screenshots/Chatbot.png)
+
 
 ### Generated Response
 
-(Add screenshot)
+![App Screenshot](Screenshots/Output.png)
+
 
 ---
 
